@@ -1,0 +1,12 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "web application",
+  "main": "index.js",
+  "repository": "https://github.com/MahdiMohammadi98125/forkify-app.git",
+  "author": "MahdiCoder <mahdi202201.mohammadi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
